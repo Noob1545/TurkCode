@@ -1,0 +1,23 @@
+body{
+    font-family: tahoma;
+}
+#baslik{
+    text-align: center;
+}
+#buton{
+    position: absolute;
+    text-align: center;
+    transition: all 0.3s ease;
+    padding: 10px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-color: aqua;
+    border-radius: 10px;
+}
+#buton:hover{
+    transition: all 0.3s ease;
+    background-color: white;
+    color: black;
+}
